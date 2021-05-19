@@ -1,0 +1,178 @@
+.no-margin {
+    margin: 0px;
+}
+.no-padding {
+    padding: 0px;
+}
+.bg-color-left{background:#f7f7f7;}
+.bg-color-right{background:#b2b2b2;}
+.bg-color-1{background:#e4e4e4;}
+
+
+.left-name h3 {
+    text-transform: uppercase;
+    font-size: 54px;
+    font-weight: 700;
+    color: #cf455c;
+    font-weight: 800;
+    font-family: 'Oswald', sans-serif !important;
+}
+.left-name h3 span {
+    color: #cf455c;
+    float: left;
+    width: 100%;
+    margin-top: -11px;
+}
+.left-name,.left-address {
+    padding: 27px;
+}
+.left-name.bg-color-1 h5 {
+    background: #383838;
+    display: inline-block;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 7px 16px;
+    margin: 10px 0px 20px;
+}
+.left-name p {
+    color: #383838;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+.ex-heading h2 {
+    background: #85a1c1;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 5px;
+    padding: 6px 27px;
+    font-size: 25px;
+}
+.ex-box h2 {
+    background: #85a1c1;
+    color: #fff;
+    font-size: 17px;
+    display: inline-block;
+    padding: 5px 21px;
+    font-weight: 600;
+}
+.ex-box {
+    padding: 27px 27px 0px 27px;
+}
+.ex-box h4 {
+    font-size: 17px;
+    font-weight: 700;
+    padding: 10px 0px 5px;
+    
+}
+.ex-box p {
+    font-size: 13px;
+    font-weight: 600;
+    color: #85a1c1;
+}
+.right-skills:after {
+    bottom: 0px;
+}
+ 
+.right-skills:before {
+    top: 0px;
+}
+.progress {
+    height: 10px;
+    margin-top: 10px;
+    margin: 20px ;
+    
+}
+.heading-skills h3 {
+    color: #fff;
+    font-size: 21px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+    padding-bottom: 14px;
+    margin: 15px;
+   
+}
+.right-skills h4 {
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 22px;
+    margin: 10px;
+}
+.mt-25{margin-top:25px;}
+.intetst-icons {
+    color: #fff;
+    text-align: center;    
+    margin-bottom: 19px;
+}
+.intetst-icons h5 {
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: white;
+}
+.eduction-right {
+    display: inline-block;
+    padding: 35px 35px 35px 35px;
+}
+.eduction-right .ex-box {
+    padding: 27px 27px 0px 0px;
+}
+.experience-right h3 {
+    padding-bottom: 0px;
+}
+.experience-right .ex-box h4 {
+    color: #fff;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+ .experience-right .ex-box p {
+    color: #fff;
+     font-weight: 400;
+}
+.address-right-box ul li {
+    list-style: none;
+    display: flex;
+}
+.address-right-box ul li {
+    list-style: none;
+    display: flex;
+    color: black;
+    margin-bottom: 21px;
+    font-size: 13px;
+    font-weight: 600;
+}
+.address-qr-right{padding: 35px 35px 0px 35px;}
+.address-right-box {
+    padding: 0px 30px;
+}
+.address-right-box i.fa {
+    margin-right: 15px;
+    color: #85a1c1;
+    font-size: 20px;
+}
+.col-md-6.no-padding.bg-color-left {
+    padding-bottom: 30px;
+}
+.carttitle-wrapper {
+    width: 1140px;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    max-width: 100%;
+}
+.icon1 {
+    fill: white ;
+}
+.link1 {
+    color: white ;
+}
+.link1 hover {
+    color: skyblue ;
+}
+
